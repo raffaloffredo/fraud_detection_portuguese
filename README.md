@@ -11,7 +11,7 @@
 ## Sobre o projeto
 Esse estudo teve por objetivo analisar dados de cartões de crédito e buscar melhorar a detecção de fraudes realizadas com esse tipo pagamento por meio da construção de modelos de predição em _machine learning_. Para isso, foi realizada uma análise exploratória para conhecer o *data set* e extrair insights, bem como verificar as possíveis correlações entre os atributos. Então, criaram-se dois modelos preditivos com aprendizado de máquina com o uso dos algoritmos de Regressão Linear e Árvore de Decisão. Para, finalmente, avaliar o resultado dos modelos e encontrar o que tem melhor desempenho com base nas métricas de Recall, AUC e matriz de confusão.
 
-* **[Código](https://github.com/raffaloffredo/fraud_detection_portuguese/blob/main/%5BLoffredoDS%5D_Detec%C3%A7%C3%A3o_de_fraude_em_cart%C3%B5es_de_cr%C3%A9dito.ipynb)**
+* **[Projeto na íntegra](https://github.com/raffaloffredo/fraud_detection_portuguese/blob/main/%5BLoffredoDS%5D_Detec%C3%A7%C3%A3o_de_fraude_em_cart%C3%B5es_de_cr%C3%A9dito.ipynb)**
 * **[Artigo Completo]()**
 * **[Artigo Resumido (Resultados)]()**
 <br/>
