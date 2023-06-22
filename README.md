@@ -16,6 +16,26 @@ Esse estudo teve por objetivo analisar dados de cartões de crédito e buscar me
 * **[Artigo Resumido (Resultados)](https://www.linkedin.com/pulse/resultados-obtidos-com-modelos-de-machine-learning-para-loffredo)**
 <br/>
 
+## Material Extra
+Os resultados obtidos com o melhor modelo de _machine learning_ foram condensados em imagens para gerar uma apresentação direta do que a empresa poderia alcançar com o uso desse algoritmo.
+
+<p align="center">
+  <img src="fraud_detection_results_1.PNG" width="50%">
+</p>
+<br/>
+<p align="center">
+  <img src="fraud_detection_results_2.PNG" width="50%">
+</p>
+<br/>
+<p align="center">
+  <img src="fraud_detection_results_3.PNG" width="50%">
+</p>
+<br/>
+<p align="center">
+  <img src="fraud_detection_results_4.PNG" width="50%">
+</p>
+<br/>
+
 ## Outros projetos
 
 * **[Airbnb New York](https://github.com/raffaloffredo/airbnb_new_york_portuguese)**
